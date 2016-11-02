@@ -1,0 +1,7 @@
+Sudoku Project code:
+
+It consists of three files in the project.
+
+1. Import the total code in Java IDE (Eclipse).
+
+2. Now, run the code in Eclipse and you can see Sudoku question generated in output  and also by pressing any key we can see the answer of the sudouku question generated previously.
