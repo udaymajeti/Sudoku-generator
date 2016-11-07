@@ -1,0 +1,5 @@
+Motivation for not implementing maven:
+
+As I have not used any type of external dependencies for creating GUI in this project, so I have not used Maven to build the project.
+
+It is also complicated and time taking to implement the project in Maven. So, I have developed the project without using Maven.
